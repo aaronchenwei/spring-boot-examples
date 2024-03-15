@@ -10,5 +10,6 @@
   <modules>
     <module>hello-world</module>
     <module>hello-world-kotlin</module>
+    <module>hello-webflux</module>
   </modules>
 </project>
