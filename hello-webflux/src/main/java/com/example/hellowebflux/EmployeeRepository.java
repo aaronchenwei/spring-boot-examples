@@ -11,7 +11,7 @@ import java.util.Map;
 public class EmployeeRepository {
   private static final Map<String, Employee> EMPLOYEE_DATA;
 
-  private static final int MAX_NUMBER_EMPLOYEE = 1000;
+  private static final int MAX_NUMBER_EMPLOYEE = 500000;
 
   static {
     EMPLOYEE_DATA = new HashMap<>();
